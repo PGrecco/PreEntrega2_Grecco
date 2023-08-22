@@ -4,6 +4,7 @@
 
 }
 
+
 .titulo-navbar{
     color: #111;
 }
@@ -15,6 +16,10 @@
     font-size: 18px;
 }
 
+.titulo-navbar span{
+    color: #111;
+}
+
 .img-navbar{
     height: 60px;
 }
@@ -24,7 +29,14 @@
     font-size: 20px;    
 }
 
-h1
+.slogan h1{
+    text-transform: uppercase;
+    flex-wrap: wrap;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 .carousel-inner{
     height: 500px;
