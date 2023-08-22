@@ -41,3 +41,84 @@ header{
     }
 }
 
+h1{
+    text-align: center;
+    margin-top: 10px;
+    padding-left: 20px;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    height: 50px;
+
+}
+
+
+.card1{
+    height: 410px;
+    margin-left: 20px;
+    border: 2px solid #111;
+    margin-bottom: 20px;
+}
+
+.nombre-cam{
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.card1 p{
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 30px;
+    background-color: grey;
+}
+
+.card2{
+    height: 410px;
+    margin-left: 0px;
+    border: 2px solid #111;
+    margin-bottom: 20px;
+
+}
+
+.nombre-cam{
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.card2 p{
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 30px;
+    background-color: grey;
+}
+
+.card3{
+    height: 410px;
+    margin-right: 20px;
+    border: 2px solid #111;
+    margin-bottom: 20px;
+
+}
+
+.nombre-cam{
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.card3 p{
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 30px;
+    background-color: grey;
+}    
+
+.button-buy{
+    border:none;
+    padding: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+
