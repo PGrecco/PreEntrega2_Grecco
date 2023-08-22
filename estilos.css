@@ -39,8 +39,15 @@
 }
 
 .carousel-inner{
-    height: 500px;
+    height: 800px;
 }
+
+footer p{
+    background-color: grey;
+    text-align: center;
+}
+
+
 
 @media only screen and (min-width: 0px) and (max-width:576px){
     .collapsibleNavbar{
