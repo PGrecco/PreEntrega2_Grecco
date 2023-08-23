@@ -16,7 +16,7 @@ header{
     .navbar{
         height:100px ;
         text-transform: uppercase;
-        background-color:grey !important;
+        background-color:rgb(66, 66, 66) !important;
         font-size: 18px;
         
     }
