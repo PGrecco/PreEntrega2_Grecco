@@ -53,7 +53,7 @@ h1{
 
 
 .card1{
-    height: 410px;
+    height: 420px;
     margin-left: 20px;
     border: 2px solid #111;
     margin-bottom: 20px;
@@ -73,7 +73,7 @@ h1{
 }
 
 .card2{
-    height: 410px;
+    height: 420px;
     margin-left: 0px;
     border: 2px solid #111;
     margin-bottom: 20px;
@@ -94,7 +94,7 @@ h1{
 }
 
 .card3{
-    height: 410px;
+    height: 420px;
     margin-right: 20px;
     border: 2px solid #111;
     margin-bottom: 20px;
@@ -139,4 +139,143 @@ footer p{
     letter-spacing: 5px;
 }
 
+@media only screen and (min-width:1440px) and (max-width:1920px){
+    .card1{
+        height: 900px;
+        margin-left: 20px;
+        border: 2px solid #111;
+        margin-bottom: 20px;
+    }
+    
+    .nombre-cam{
+        font-size: 20px;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    
+    .card1 p{
+        text-align: center;
+        font-family: 'Staatliches', cursive;
+        font-size: 30px;
+        background-color: grey;
+    }
+    
+    .card2{
+        height: 900px;
+        margin-left: 0px;
+        border: 2px solid #111;
+        margin-bottom: 20px;
+    
+    }
+    
+    .nombre-cam{
+        font-size: 20px;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    
+    .card2 p{
+        text-align: center;
+        font-family: 'Staatliches', cursive;
+        font-size: 30px;
+        background-color: grey;
+    }
+    
+    .card3{
+        height: 900px;
+        margin-right: 20px;
+        border: 2px solid #111;
+        margin-bottom: 20px;
+    
+    }
+    
+    .nombre-cam{
+        font-size: 20px;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    
+    .card3 p{
+        text-align: center;
+        font-family: 'Staatliches', cursive;
+        font-size: 30px;
+        background-color: grey;
+    }    
+    
+    .button-buy{
+        border:none;
+        padding: 5px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif
+    }
+}
+
+@media only screen and (min-width:360px) and (max-width:720px){
+    .card1{
+        height: 900px;
+        margin-left: 20px;
+        border: 2px solid #111;
+        margin-bottom: 20px;
+    }
+    
+    .nombre-cam{
+        font-size: 20px;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    
+    .card1 p{
+        text-align: center;
+        font-family: 'Staatliches', cursive;
+        font-size: 30px;
+        background-color: grey;
+    }
+    
+    .card2{
+        height: 900px;
+        margin-left: 0px;
+        border: 2px solid #111;
+        margin-bottom: 20px;
+    
+    }
+    
+    .nombre-cam{
+        font-size: 20px;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    
+    .card2 p{
+        text-align: center;
+        font-family: 'Staatliches', cursive;
+        font-size: 30px;
+        background-color: grey;
+    }
+    
+    .card3{
+        height: 900px;
+        margin-right: 20px;
+        border: 2px solid #111;
+        margin-bottom: 20px;
+    
+    }
+    
+    .nombre-cam{
+        font-size: 20px;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    
+    .card3 p{
+        text-align: center;
+        font-family: 'Staatliches', cursive;
+        font-size: 30px;
+        background-color: grey;
+    }    
+    
+    .button-buy{
+        border:none;
+        padding: 5px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif
+    }
+}    
 
