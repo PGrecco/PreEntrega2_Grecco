@@ -36,6 +36,7 @@ section{
     height: 1050px;
     image-orientation: center;
     background-position: cover;
+    font-size: 22px;
 }
 
 p{
@@ -72,3 +73,4 @@ footer p{
         justify-content: center !important;
     }
 }
+
